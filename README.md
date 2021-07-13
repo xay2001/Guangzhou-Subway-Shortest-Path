@@ -1,6 +1,10 @@
 # Guangzhou-Subway-Shortest-Path
 C++实现广州地铁最短路线查询，利用Floyd深度优先算法
 
+## 项目运行
+
+> 直接解压 “exe.zip” 最终版本 打开 “theend.exe” 即可运行
+
 ## 项目人员
 
 > xay2001
