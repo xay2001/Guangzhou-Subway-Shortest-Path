@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/chaxun.png</file>
+        <file>img/ditie.png</file>
+        <file>img/ditie-2.png</file>
+        <file>img/ditie-3.png</file>
+        <file>img/guangzhouditie.png</file>
+        <file>img/jiaohuan.png</file>
+        <file>img/Line.jpg</file>
+        <file>img/ly_huancheng.png</file>
+        <file>img/ly_huancheng2.png</file>
+        <file>img/ly_huancheng3.png</file>
+        <file>img/qidian.png</file>
+        <file>img/yuandian.png</file>
+        <file>img/zhongdian.png</file>
+        <file>img/zhongzhi-.png</file>
+        <file>img/qidian2.png</file>
+        <file>img/zhongdian2.png</file>
+        <file>img/lineColor.jpg</file>
+        <file>img/arrow.png</file>
+    </qresource>
+</RCC>
